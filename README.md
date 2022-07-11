@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p  align="center"><img src="https://user-images.githubusercontent.com/42150335/105211661-e1b33080-5b8f-11eb-9956-184d60ccc55a.png" height=100>
 
 
@@ -302,3 +303,6 @@ A [technical report](https://arxiv.org/abs/2009.03092) on KoSpeech in available.
   eprint    = {2009.03092}
 }
 ```
+=======
+# kospeech
+>>>>>>> 2a282757f93b1dbdec00b5a71361dc230e095559
